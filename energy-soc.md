@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Energy Harvesting SoCw
+title: Energy Harvesting SoC
 description: A full tapeout on TSMC 28nm of a custom SoC design with a custom ADC in a team of 3.
 image: assets/images/pic01.jpg
 nav-menu: true
