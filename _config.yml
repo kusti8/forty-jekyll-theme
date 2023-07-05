@@ -1,8 +1,8 @@
 # site settings
 title: Gustav Hansen
-subtitle: A masters student at CMU specializing in AMS and digital design, open to fulltime positions.
+subtitle: A masters student at CMU
 email: hello@kusti8.com
-description: A highly motivated electrical engineering \textbf{masters student} at Carnegie Mellon University, specializing in analog mixed signal, with experience in many different fields and a desire for learning. Looking for full time positions and opportunities to contribute, learn new skills, and gain experience. Winner of the Apple Masters Scholarship in IC Engineering.
+description: A highly motivated electrical engineering masters student at Carnegie Mellon University, specializing in analog mixed signal, with experience in many different fields and a desire for learning. Looking for full time positions and opportunities to contribute, learn new skills, and gain experience. Winner of the Apple Masters Scholarship in IC Engineering.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: kusti8.com # the base hostname & protocol for your site
 author:
