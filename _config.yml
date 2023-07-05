@@ -8,9 +8,9 @@ url: kusti8.com # the base hostname & protocol for your site
 author:
 street_address:
 city:
-state:
+state: CA
 zip_code:
-country:
+country: United States of America
 phone:
 
 # homepage tiles
